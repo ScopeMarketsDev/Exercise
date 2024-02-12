@@ -20,4 +20,4 @@ Make a new endpoint `PUT /customers/{customerId}` that will allow us to store an
 
 ## Task 4
 
-Consider how we would make a `GET /customers/{customerId}` endpoint, which will return the data for a specific customer be reading all the stored events for that customer.
+Consider how we would make a `GET /customers/{customerId}` endpoint, which will return the data for a specific customer by reading all the stored events for that customer.
